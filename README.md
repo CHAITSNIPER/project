@@ -1,1 +1,1 @@
-(https://githubbox.com/CHAITSNIPER/project).
+https://githubbox.com/CHAITSNIPER/project
