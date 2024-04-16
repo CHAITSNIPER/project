@@ -1,0 +1,21 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+.formie2{
+    background-color: black;
+    color: rgb(14, 233, 14);
+    position: relative;
+    bottom : 2.5rem;
+    padding: 20px 20px 20px 20px;
+    right : 0.2rem;
+}
+h1{
+    position: absolute;
+    bottom : 28rem;
+    right: 28rem;
+    color: greenyellow;
+    font-size: 4;
+}
